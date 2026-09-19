@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description>MoveSmart campus transportation prototype</description>
+        <device_type>browser</device_type>
+        <hint>Mobile Transportation App</hint>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-19 16:39:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f93f6ea0f684595a56baff2c83af7ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MoveSmart</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MoveSmart" source="x_1962979_movesm_0">88ce3f6183be8b101e89f3a6feaad30c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MoveSmart">88ce3f6183be8b101e89f3a6feaad30c</sys_scope>
+        <sys_update_name>sys_app_application_4f93f6ea0f684595a56baff2c83af7ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-19 16:39:08</sys_updated_on>
+        <title>MoveSmart</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
